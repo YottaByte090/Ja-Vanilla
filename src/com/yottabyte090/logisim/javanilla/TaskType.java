@@ -31,5 +31,6 @@ package com.yottabyte090.logisim.javanilla;
 
 public enum TaskType {
     FETCH,
-    WRITE
+    WRITE,
+    SET_A,
 }
