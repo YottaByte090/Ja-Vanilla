@@ -1,2 +1,2 @@
 # Ja-Vanilla
-A Logisim MCU written in Java.
+An MCU which runs on Logisim
